@@ -1,7 +1,0 @@
-{
-  "tableName": "heleneClothingItems",
-  "partitionKeyName": "id",
-  "partitionKeyType": "N",
-  "sortKeyName": "name",
-  "sortKeyType": "S"
-}
